@@ -1,0 +1,16 @@
+.navbar {
+    font-family: 'Inconsolata', monospace;
+}
+.container {
+    background-color: dimgrey;
+    margin: auto;
+    padding: 20px;
+    float: center;
+    font-family: 'Inconsolata', monospace;
+}
+body {
+    background-image: url(file:///Users/willhall123icloud.com/Desktop/double-bubble-dark/double-bubble-dark.png); 
+}
+a {
+    color: black;
+}
