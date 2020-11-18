@@ -11,23 +11,33 @@ body{
     float: center;
     font-family: 'Inconsolata', monospace;
 }
-.growbox {
-    margin: auto;
-    padding: 10px;
-    float: left;
+.port-1 {
+
 }
-.cssstyle {
-    margin: auto;
-    padding: 10px;
-    float: right;
+.port-2{
+
 }
-.fanpage {
-    margin: auto;
-    padding: 10px;
-    float: left;
+.port-3{
+
 }
-.aboutme {
-    margin: auto;
-    padding: 10px;
-    float: right;
+.port-4{
+
+}
+.port-5{
+
+}
+.port-6{
+
+}
+.port-7{
+
+}
+.port-8{
+
+}
+.port-9{
+
+}
+.port-10{
+    
 }
