@@ -12,32 +12,48 @@ body{
     font-family: 'Inconsolata', monospace;
 }
 .port-1 {
-
+    float: center;
+    margin: auto;
+    padding: 20px;
 }
 .port-2{
-
+    float: center;
+    margin: auto;
+    padding: 30px;
 }
 .port-3{
-
+    margin: auto;
+    padding: 30px;
 }
 .port-4{
-
+    float: center;
+    margin: auto;
+    padding: 30px;
 }
 .port-5{
-
+    margin: auto;
+    padding: 30px;
 }
 .port-6{
-
+    float: center;
+    margin: auto;
+    padding: 30px;
 }
 .port-7{
-
+    margin: auto;
+    padding: 30px;
 }
 .port-8{
-
+    float: center;
+    margin: auto;
+    padding: 30px;
 }
 .port-9{
 
 }
 .port-10{
     
+}
+a {
+    color: black;
 }
